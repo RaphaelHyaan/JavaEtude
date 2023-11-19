@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><Operation>
+    <Noeud fonction="*" type="action">
+        <Noeud fonction="+" type="action">
+            <Noeud type="valeur" valeur="x"/>
+            <Noeud type="valeur" valeur="3"/>
+        </Noeud>
+        <Noeud fonction="-" type="action">
+            <Noeud type="valeur" valeur="5"/>
+            <Noeud fonction="*" type="action">
+                <Noeud type="valeur" valeur="2"/>
+                <Noeud type="valeur" valeur="x"/>
+            </Noeud>
+        </Noeud>
+    </Noeud>
+</Operation>

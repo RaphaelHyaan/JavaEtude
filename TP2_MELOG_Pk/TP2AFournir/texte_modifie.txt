@@ -1,0 +1,14 @@
+############
+#
+# Contenu de texte.txt :
+#
+#	6 mots.
+#
+############
+
+bonjour
+il
+fait
+beau
+aujourd
+hui

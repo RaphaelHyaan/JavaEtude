@@ -1,0 +1,2 @@
+>>> java Sc.java
+>>> java Sc "(x+3)*(5-(2*x))"
